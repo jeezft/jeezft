@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -77,5 +75,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jeezft/jeezft/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2022 20:39:32 UTC
+ Last Updated on 12/02/2022 21:14:50 UTC
 <!--END_SECTION:waka-->
