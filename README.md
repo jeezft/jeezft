@@ -1,20 +1,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**📊 Global GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 44 contributions in 2022
-
-📦 52.3 kB used in GitHub's storage 
-
-📜 3 Public Repositories 
-
-🔑 12 Private Repositories  
+> 🏆 44 Contributions in the Year 2022
  > 
-**I'm a night 🦉** 
+> 📦 52.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
@@ -23,7 +24,7 @@
 🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
-📅 **I'm most productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
@@ -37,7 +38,7 @@ Sunday       30 commits     ███████░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Moscow
@@ -65,7 +66,7 @@ Windows                  1 hr 39 mins        █████░░░░░░�
 
 ```
 
-**💻 I mostly code in Go** 
+**I Mostly Code in Go** 
 
 ```text
 Go                       8 repos             ██████████████░░░░░░░░░░░   57.14% 
@@ -81,5 +82,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jeezft/jeezft/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:38:16 UTC
+ Last Updated on 12/06/2022 08:23:00 UTC
 <!--END_SECTION:waka-->
