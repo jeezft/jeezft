@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,20 @@ Sunday       30 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       8 mins              ██████████████████████░░░   89.38% 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+go-discordadvanced       7 mins              █████████████████████░░░░   85.07% 
+go-rkchecker             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
+Untitled (Workspace)     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +77,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jeezft/jeezft/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/08/2022 10:43:44 UTC
+ Last Updated on 13/08/2022 12:34:10 UTC
 <!--END_SECTION:waka-->
