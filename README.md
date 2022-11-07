@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -74,5 +74,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jeezft/jeezft/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2022 20:45:20 UTC
+ Last Updated on 07/11/2022 21:21:31 UTC
 <!--END_SECTION:waka-->
