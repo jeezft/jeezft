@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -7,7 +7,7 @@
 
 > 🏆 65 Contributions in the Year 2022
  > 
-> 📦 64.7 kB Used in GitHub's Storage 
+> 📦 64.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,17 @@ Sunday       37 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       12 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gatari-go-api            11 mins             ███████████████████████░░   92.08% 
+go-courcesAPI            1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.92%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +75,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jeezft/jeezft/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2022 21:21:31 UTC
+ Last Updated on 07/11/2022 21:44:43 UTC
 <!--END_SECTION:waka-->
