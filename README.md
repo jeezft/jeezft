@@ -1,84 +1,30 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2033%20mins-blue)
+<div align="center">
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 65 Contributions in the Year 2022
- > 
-> 📦 64.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 15 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    26 commits     █████░░░░░░░░░░░░░░░░░░░░   22.61% 
-🌆 Daytime    31 commits     ██████░░░░░░░░░░░░░░░░░░░   26.96% 
-🌃 Evening    45 commits     █████████░░░░░░░░░░░░░░░░   39.13% 
-🌙 Night      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3%
+# Daniel Nagorny `@jeezft`
 
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
-Tuesday      9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
-Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-Friday       27 commits     █████░░░░░░░░░░░░░░░░░░░░   23.48% 
-Saturday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
-Sunday       37 commits     ████████░░░░░░░░░░░░░░░░░   32.17%
-
+backend · infra · self-hosted
+go  ·  rust  ·  linux
 ```
 
+### stack
 
-📊 **This Week I Spent My Time On** 
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white)](#)
+[![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](#)
 
-```text
-⌚︎ Time Zone: Europe/Moscow
+### infra
 
-💬 Programming Languages: 
-Go                       1 hr 4 mins         █████████████████░░░░░░░░   69.83% 
-Rust                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
+[![Linux](https://img.shields.io/badge/-Linux-222?style=flat-square&logo=linux&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](#)
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)](#)
 
-🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-go-scraper               56 mins             ███████████████░░░░░░░░░░   61.71% 
-suckit-master            19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-gatari-go-api            14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-go-courcesAPI            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
-
-💻 Operating System: 
-Windows                  56 mins             ███████████████░░░░░░░░░░   61.71% 
-Mac                      35 mins             █████████░░░░░░░░░░░░░░░░   38.29%
-
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       12 repos            ███████████████░░░░░░░░░░   63.16% 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jeezft/jeezft/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 21:22:04 UTC
-<!--END_SECTION:waka-->
+</div>
