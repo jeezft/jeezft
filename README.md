@@ -1,10 +1,5 @@
 <div align="center">
 
-```
-backend · infra · self-hosted
-go  ·  rust  ·  linux
-```
-
 ### stack
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
