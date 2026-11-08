@@ -1,7 +1,5 @@
 <div align="center">
 
-# Daniel Nagorny `@jeezft`
-
 ```
 backend · infra · self-hosted
 go  ·  rust  ·  linux
